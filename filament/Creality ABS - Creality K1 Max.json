@@ -1,0 +1,46 @@
+{
+    "compatible_printers": [
+        "Creality K1 Max - 0.4 nozzle"
+    ],
+    "default_filament_colour": [
+        "#C9C9CC"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.9215"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "Creality ABS - Creality K1 Max"
+    ],
+    "filament_vendor": [
+        "Creality"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "100"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "My Generic ABS",
+    "is_custom_defined": "0",
+    "name": "Creality ABS - Creality K1 Max",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "pressure_advance": [
+        "0.06"
+    ],
+    "slow_down_min_speed": [
+        "20"
+    ],
+    "version": "1.6.1.0"
+}
