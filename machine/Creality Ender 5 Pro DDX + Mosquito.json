@@ -21,7 +21,7 @@
         "500"
     ],
     "machine_start_gcode": "M117\nSTART_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single]",
-    "name": "Creality Ender-5 Pro DDX + Mosquito",
+    "name": "Creality Ender 5 Pro DDX + Mosquito",
     "print_host": "10.0.0.108",
     "printer_settings_id": "Creality Ender-5 Pro DDX + Mosquito",
     "retraction_length": [
