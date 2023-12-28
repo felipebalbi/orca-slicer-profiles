@@ -1,7 +1,7 @@
 {
     "auxiliary_fan": "1",
-    "bed_custom_model": "/home/balbi/.config/OrcaSlicer/user/textures/k1-max-build-plate.stl",
-    "bed_custom_texture": "/home/balbi/.config/OrcaSlicer/user/textures/k1-max-texture.png",
+    "bed_custom_model": "/opt/orca-slicer/resources/profiles/Creality/creality_k1max_buildplate_model.stl",
+    "bed_custom_texture": "/opt/orca-slicer/resources/profiles/Creality/creality_k1max_buildplate_texture.png",
     "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nG92 E0",
     "change_filament_gcode": "PAUSE",
     "default_filament_profile": [
