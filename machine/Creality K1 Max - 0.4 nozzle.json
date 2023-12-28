@@ -76,7 +76,7 @@
     ],
     "machine_start_gcode": "SET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\nM140 S0\nM104 S0\nSTART_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single]",
     "name": "Creality K1 Max - 0.4 nozzle",
-    "print_host": "10.0.0.72:4409",
+    "print_host": "10.0.0.72",
     "printable_area": [
         "0x0",
         "300x0",
@@ -95,8 +95,5 @@
         "100x100",
         "320x320"
     ],
-    "version": "1.6.0.0",
-    "z_hop": [
-        "0.1"
-    ]
+    "version": "1.6.0.0"
 }
