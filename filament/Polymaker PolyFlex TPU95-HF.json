@@ -1,0 +1,46 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_retraction_length": [
+        "0.4"
+    ],
+    "filament_settings_id": [
+        "Polymaker PolyFlex TPU95-HF"
+    ],
+    "filament_type": [
+        "TPU"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "50"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "50"
+    ],
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Polymaker PolyFlex TPU95-HF",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "200"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "nozzle_temperature_range_low": [
+        "200"
+    ],
+    "pressure_advance": [
+        "0.05"
+    ],
+    "slow_down_layer_time": [
+        "0"
+    ],
+    "version": "1.8.0.0"
+}

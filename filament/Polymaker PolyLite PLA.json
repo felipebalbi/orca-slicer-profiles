@@ -1,15 +1,10 @@
 {
-    "activate_chamber_temp_control": [
-        "1"
-    ],
-    "chamber_temperature": [
-        "45"
-    ],
     "compatible_printers": [
-        "Creality K1 Max - 0.4 nozzle"
+        "Creality K1 Max - 0.4 nozzle",
+        "Creality Ender 5 Pro DDX + Mosquito"
     ],
     "default_filament_colour": [
-        "#C9C9CC"
+        "#29B2B2"
     ],
     "enable_pressure_advance": [
         "1"
@@ -21,16 +16,16 @@
         "23"
     ],
     "filament_retraction_length": [
-        "0.4"
+        "0.8"
     ],
     "filament_settings_id": [
-        "Creality Hyper PLA"
+        "Polymaker PolyLite PLA"
     ],
     "filament_type": [
         "PLA"
     ],
     "filament_vendor": [
-        "Creality"
+        "Polymaker"
     ],
     "from": "User",
     "hot_plate_temp": [
@@ -41,7 +36,7 @@
     ],
     "inherits": "My Generic ABS",
     "is_custom_defined": "0",
-    "name": "Creality Hyper PLA",
+    "name": "Polymaker PolyLite PLA",
     "nozzle_temperature": [
         "220"
     ],
