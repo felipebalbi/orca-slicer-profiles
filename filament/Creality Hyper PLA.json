@@ -6,7 +6,9 @@
         "45"
     ],
     "compatible_printers": [
-        "Creality K1 Max - 0.4 nozzle"
+        "Creality Ender 5 Pro DDX + Mosquito",
+        "Creality K1 Max - 0.4 nozzle",
+        "Creality K1 Max - 0.6 nozzle"
     ],
     "default_filament_colour": [
         "#C9C9CC"
@@ -39,7 +41,7 @@
     "hot_plate_temp_initial_layer": [
         "60"
     ],
-    "inherits": "My Generic ABS",
+    "inherits": "Creality Generic PLA High Speed @K1-all",
     "is_custom_defined": "0",
     "name": "Creality Hyper PLA",
     "nozzle_temperature": [

@@ -1,17 +1,24 @@
 {
+    "chamber_temperature": [
+        "45"
+    ],
     "compatible_printers": [
-        "Creality K1 Max - 0.4 nozzle",
-        "Creality K1 Max - 0.6 nozzle",
-        "Creality Ender 5 Pro DDX + Mosquito"
+        "Creality K1 Max - 0.4 nozzle"
     ],
     "default_filament_colour": [
-        "#29B2B2"
+        "#613583"
     ],
     "enable_pressure_advance": [
         "1"
     ],
+    "filament_cost": [
+        "22.99"
+    ],
+    "filament_density": [
+        "1.23"
+    ],
     "filament_flow_ratio": [
-        "0.9776"
+        "0.98"
     ],
     "filament_max_volumetric_speed": [
         "23"
@@ -19,14 +26,17 @@
     "filament_retraction_length": [
         "0.8"
     ],
+    "filament_retraction_speed": [
+        "40"
+    ],
     "filament_settings_id": [
-        "Polymaker PolyLite PLA"
+        "eSUN PLA+"
     ],
     "filament_type": [
         "PLA"
     ],
     "filament_vendor": [
-        "Polymaker"
+        "eSUN"
     ],
     "from": "User",
     "hot_plate_temp": [
@@ -37,7 +47,7 @@
     ],
     "inherits": "Creality Generic PLA High Speed @K1-all",
     "is_custom_defined": "0",
-    "name": "Polymaker PolyLite PLA",
+    "name": "eSUN PLA+",
     "nozzle_temperature": [
         "220"
     ],
@@ -45,13 +55,13 @@
         "230"
     ],
     "nozzle_temperature_range_high": [
-        "230"
+        "225"
     ],
     "nozzle_temperature_range_low": [
-        "190"
+        "205"
     ],
     "pressure_advance": [
-        "0.015"
+        "0.06"
     ],
     "slow_down_min_speed": [
         "20"

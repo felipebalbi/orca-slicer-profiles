@@ -1,0 +1,51 @@
+{
+    "default_filament_colour": [
+        "#3584E4"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_density": [
+        "1.25"
+    ],
+    "filament_flow_ratio": [
+        "0.882"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
+    ],
+    "filament_settings_id": [
+        "Creality CR Series PETG @K1 Max 0.6 nozzle"
+    ],
+    "filament_type": [
+        "PETG"
+    ],
+    "filament_vendor": [
+        "Creality"
+    ],
+    "filament_wipe": [
+        "0"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "70"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "70"
+    ],
+    "inherits": "PolyTerra @K1 Max 0.6 nozzle",
+    "name": "Creality CR Series PETG @K1 Max 0.6 nozzle",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
+    ],
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "pressure_advance": [
+        "0.04"
+    ],
+    "version": "0.0.0.0"
+}

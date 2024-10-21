@@ -1,0 +1,21 @@
+{
+    "default_filament_colour": [
+        "#3584E4"
+    ],
+    "filament_density": [
+        "1.25"
+    ],
+    "filament_settings_id": [
+        "Creality Hyper Series PLA @K1 Max 0.6 nozzle"
+    ],
+    "filament_vendor": [
+        "Creality"
+    ],
+    "from": "User",
+    "inherits": "PolyTerra @K1 Max 0.6 nozzle",
+    "name": "Creality Hyper Series PLA @K1 Max 0.6 nozzle",
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "version": "0.0.0.0"
+}

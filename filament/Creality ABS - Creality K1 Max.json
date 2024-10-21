@@ -27,7 +27,7 @@
     "hot_plate_temp_initial_layer": [
         "100"
     ],
-    "inherits": "My Generic ABS",
+    "inherits": "Creality Generic ABS @K1-all",
     "is_custom_defined": "0",
     "name": "Creality ABS - Creality K1 Max",
     "nozzle_temperature": [

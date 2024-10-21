@@ -1,7 +1,7 @@
 {
     "auxiliary_fan": "1",
-    "bed_custom_model": "/opt/orca-slicer/resources/profiles/Creality/creality_k1max_buildplate_model.stl",
-    "bed_custom_texture": "/opt/orca-slicer/resources/profiles/Creality/creality_k1max_buildplate_texture.png",
+    "bed_custom_model": "/usr/share/OrcaSlicer/profiles/Creality/creality_k1max_buildplate_model.stl",
+    "bed_custom_texture": "/usr/share/OrcaSlicer/profiles/Creality/creality_k1max_buildplate_texture.png",
     "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nG92 E0",
     "change_filament_gcode": "PAUSE",
     "default_filament_profile": [
@@ -14,7 +14,7 @@
     "extruder_clearance_height_to_rod": "45",
     "extruder_clearance_radius": "45",
     "from": "User",
-    "inherits": "Creality K1 Max (0.4 nozzle)",
+    "inherits": "Creality K1 Max (0.6 nozzle)",
     "is_custom_defined": "0",
     "layer_change_gcode": "SET_PRINT_STATS_INFO CURRENT_LAYER={layer_num + 1}\n;AFTER_LAYER_CHANGE\n;[layer_z]",
     "machine_end_gcode": "END_PRINT",
@@ -75,7 +75,7 @@
         "12"
     ],
     "machine_start_gcode": "SET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\nM140 S0\nM104 S0\nSTART_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single]",
-    "name": "Creality K1 Max - 0.4 nozzle",
+    "name": "Creality K1 Max - 0.6 nozzle",
     "print_host": "10.0.0.72",
     "printable_area": [
         "0x0",
@@ -84,16 +84,13 @@
         "0x300"
     ],
     "printable_height": "300",
-    "printer_settings_id": "Creality K1 Max - 0.4 nozzle",
+    "printer_settings_id": "Creality K1 Max - 0.6 nozzle",
     "retraction_length": [
-        "0.4"
+        "0.6"
     ],
     "retraction_speed": [
         "40"
     ],
-    "thumbnails": [
-        "100x100",
-        "320x320"
-    ],
+    "thumbnails": "100x100/PNG, 320x320/PNG",
     "version": "1.6.0.0"
 }
